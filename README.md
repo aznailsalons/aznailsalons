@@ -7,7 +7,7 @@ View <a href="https://aznailsalons.com/">aznailsalons.com</a> website listing na
 
 Among Birmingham, Glamour Nails is unique. The salon's courteous personnel and spotless surroundings have won over clients. A number of reviews note the nail technicians' professionalism. Many customers come back for frequent visits since they value the constant quality of work.
 
-<img class="size-full wp-image-2055" src="http://aznailsalons.com/wp-content/uploads/2024/10/Nail-salons-in-Alabama.jpg" alt="Nail salons in Alabama" width="600" height="400" />
+<center><img class="size-full wp-image-2055" src="http://aznailsalons.com/wp-content/uploads/2024/10/Nail-salons-in-Alabama.jpg" alt="Nail salons in Alabama" width="600" height="400" /></center>
 
 <h3>Beautiful Fingers</h3>
 
